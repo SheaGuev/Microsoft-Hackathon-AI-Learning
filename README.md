@@ -1,8 +1,6 @@
 # Microsoft-Hackathon-AI-Learning
 ## A 3rd place Hackathon winner Adaptify! An app for translating learning material into a more comprehensible way for neurodiverse learning based on behavioural science.
 
-# ADAPIIGY - AI-Powered Learning Platform for Neurodiverse Students
-
 A revolutionary educational platform that creates personalized learning experiences for neurodivergent learners through AI-driven customization.
 
 ## **Overview**
