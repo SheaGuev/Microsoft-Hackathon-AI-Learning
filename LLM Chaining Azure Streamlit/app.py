@@ -1,11 +1,16 @@
 # import streamlit as st
 from openai import AzureOpenAI
+from dotenv import load_dotenv
+import os
 
-# Azure OpenAI Configuration
-ENDPOINT = "https://mango-bush-0a9e12903.5.azurestaticapps.net/api/v1"
-API_KEY = "581cdf93-397a-442a-86f1-ed82cdc4185d"
-API_VERSION = "2024-02-01"
-MODEL_NAME = "gpt-4o-mini"
+# Load the .env file
+load_dotenv()
+
+# Access the variables
+endpoint = os.getenv("ENDPOINT")
+api_key = os.getenv("API_KEY")
+api_version = os.getenv("API_VERSION")
+model_name = os.getenv("MODEL_NAME")
 
 # Initialize Azure OpenAI client
 client = AzureOpenAI(
