@@ -1,6 +1,7 @@
 # Microsoft-Hackathon-AI-Learning
 
-### A 3rd place Hackathon winner Adaptify! An app for translating learning material into a more comprehensible way for neurodiverse learning based on behavioural science. A revolutionary educational platform that creates personalized learning experiences for neurodivergent learners through AI-driven customization.
+**A 3rd place Hackathon winner Adaptify! An app for translating learning material into a more comprehensible way for neurodiverse learning based on behavioural science. A revolutionary educational platform that creates personalized learning experiences for neurodivergent learners through AI-driven customization.
+**
 
 ## **Overview**
 This repository contains the project developed during the Microsoft Hackathon, focusing on utilizing Artificial Intelligence to create personalized learning experiences for neurodiverse students. Our solution aims to address the challenges faced by neurodivergent learners in traditional educational systems by providing tailored study materials and an inclusive, interactive learning platform.
